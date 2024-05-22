@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_blender_texdiff"
+description = "Nodes:Blender viewport color, Blender Viewport depth"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/adriflex/ComfyUI_Blender_Texdiff"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_Blender_Texdiff"
+Icon = ""
